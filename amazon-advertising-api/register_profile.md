@@ -4,8 +4,6 @@
 
 Registering as a developer for Amazon SP-API is the first step toward creating applications for Amazon's selling ecosystem. This guide provides a step-by-step process for completing the registration.
 
-
-
 ### **Prerequisites**
 
 Before starting, ensure you have completed the following:
